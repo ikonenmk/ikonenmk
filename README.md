@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Software developer with a strong interest in fullstack web development. And systems programming... and basic game development for fun... and I guess most things that involve coding! :grinning:
+Software developer with a strong interest in Java and fullstack web development.
 
 <h3>Mostly doing</h3>
 
@@ -8,5 +8,5 @@ Software developer with a strong interest in fullstack web development. And syst
 
 <h3>Looking forward to do more with </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,linux,docker)](https://skillicons.dev)
 
